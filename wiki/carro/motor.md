@@ -75,6 +75,14 @@ Ciclo modificado que maximiza eficiência energética. Usado em veículos **híb
 
 ---
 
+## Tipos de Propulsão
+
+- **Combustão interna** — Otto, Diesel, Atkinson
+- **Híbrido** — Atkinson + motor elétrico
+- **Elétrico** — somente motor elétrico
+
+---
+
 ## Classificação quanto à Alimentação de Ar
 
 | Tipo | Descrição |
@@ -91,7 +99,7 @@ Ciclo modificado que maximiza eficiência energética. Usado em veículos **híb
 ## Classificação quanto à Alimentação de Combustível
 
 - **Carburado** — mistura ar/combustível feita no carburador
-- **Injetado** — combustível injetado eletronicamente (veja [[sistema-de-injecao]])
+- **Injetado** — combustível injetado eletronicamente
 
 ---
 
@@ -124,7 +132,7 @@ Ciclo modificado que maximiza eficiência energética. Usado em veículos **híb
 
 **Material:** Liga de alumínio (leve) ou Ferro fundido (robusto)
 
-**Disposição:** Transversal (motor de tração dianteira) ou Longitudinal (RWD/4WD)
+**Disposição:** Transversal ou Longitudinal
 
 | Componente | Função |
 |---|---|
@@ -161,13 +169,12 @@ Ciclo modificado que maximiza eficiência energética. Usado em veículos **híb
 | **Filtro de óleo** | Remove impurezas do óleo |
 | **Filtro de combustível** | Remove impurezas antes dos bicos |
 | **Alternador** | Gera energia para a bateria via correia |
-| **Bomba d'água / Válvula termostática** | Veja [[sistema-de-arrefecimento]] |
 
 ---
 
 ## Cabeçote
 
-Estrutura superior acoplada ao bloco. Contém câmara de combustão, válvulas, ignição e injeção.
+Estrutura superior acoplada ao bloco.
 
 | Componente | Descrição |
 |---|---|
@@ -201,28 +208,6 @@ Estrutura superior acoplada ao bloco. Contém câmara de combustão, válvulas, 
 | **Disco de embreagem** | Transmite torque — se desgasta com uso |
 | **Platô de pressão** | Prensa o disco contra o volante |
 | **Rolamento da embreagem** | Permite acionamento sem vibração |
-
----
-
-## Sistemas Auxiliares
-
-| Sistema | Função |
-|---|---|
-| **Sistema de partida** | Aciona o motor inicialmente |
-| **Sistema de carga** | Alternador + bateria |
-| **ABS** | Antibloqueio de rodas |
-| **Controle de estabilidade** | Mantém trajetória em curvas |
-| **Controle de tração** | Evita patinamento das rodas motoras |
-| **Sistema de iluminação** | Faróis, lanternas, setas |
-| **Sistema de ar condicionado** | Veja [[sistema-de-ar-condicionado]] |
-
----
-
-## Tipos de Propulsão
-
-- **Combustão interna** — Otto, Diesel, Atkinson
-- **Híbrido** — Atkinson + motor elétrico
-- **Elétrico** — somente motor elétrico
 
 ## Fontes
 
