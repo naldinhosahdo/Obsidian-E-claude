@@ -1,35 +1,30 @@
 ---
 titulo: "Sistema de Escapamento"
 tipo: carro
-tags: [mecanica-automotiva, escapamento, emissoes]
+tags: [mecanica-automotiva, escapamento, catalisador, emissao, silencioso]
 data_criacao: 2026-05-02
 data_atualizacao: 2026-05-02
-fontes: []
+fontes: [Mapa_mental_obsidian.pdf]
 ---
 
 # Sistema de Escapamento
 
-*Página stub — será expandida com a ingestão de fontes.*
+Conduz e trata os gases queimados desde o motor até a saída traseira do veículo.
 
-## Descrição Geral
+## Componentes (em sequência)
 
-Conduz e trata os gases da combustão, reduzindo ruído, temperatura e emissões poluentes antes de liberá-los na atmosfera.
-
-## Componentes Principais
-
-- **Coletor de escape**: coleta gases de cada cilindro (início no [[cabecote]])
-- **Catalisador (CAT)**: converte CO, HC e NOx em gases menos nocivos
-- **Sonda lambda**: monitora gases para retroalimentar a ECU
-- **Ressonador**: reduz ruído em frequências médias
-- **Silencioso traseiro**: redução final do ruído
-- **Tubo de escape**: conduz gases do motor à saída
+| Componente | Função |
+|---|---|
+| **Coletor de escape** | Coleta gases queimados de cada cilindro — parte do cabeçote ([[motor]]) |
+| **Catalisador** | Converte CO, HC e NOx em CO₂, H₂O e N₂ |
+| **Silencioso intermediário** | Redução inicial de ruído |
+| **Silencioso traseiro / Abafador** | Redução final de ruído antes da saída |
 
 ## Relação com Outros Sistemas
 
-- [[cabecote]] — coletor de escape é o ponto de partida
-- [[sistema-eletrico]] — sonda lambda alimenta a ECU
-- [[sistema-de-reaproveitamento-de-gases]] — integração com EGR
+- [[motor]] — coletor de escape é o início do sistema
+- [[sistema-de-reaproveitamento-de-gases]] — parte dos gases é reaproveitada
 
 ## Fontes
 
-*(a preencher com ingestão de fontes)*
+- Mapa mental de mecânica automotiva (arquivo pessoal)

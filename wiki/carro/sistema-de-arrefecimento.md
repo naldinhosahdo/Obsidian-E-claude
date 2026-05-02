@@ -1,43 +1,63 @@
 ---
 titulo: "Sistema de Arrefecimento"
 tipo: carro
-tags: [mecanica-automotiva, arrefecimento, motor]
+tags: [mecanica-automotiva, arrefecimento, refrigeracao, motor, radiador]
 data_criacao: 2026-05-02
 data_atualizacao: 2026-05-02
-fontes: [Mapa_mental_.pdf]
+fontes: [Mapa_mental_obsidian.pdf]
 ---
 
 # Sistema de Arrefecimento
 
-Mantém o [[motor]] em temperatura operacional ideal (~85–105 °C), removendo o excesso de calor gerado pela combustão.
+Mantém a temperatura do motor dentro da faixa ideal, evitando superaquecimento.
 
-## Componentes Principais
+---
 
-- **Bomba d'água**: força a circulação do fluido refrigerante
-- **Válvula termostática**: regula abertura do circuito ao radiador
-- **Radiador**: troca térmica entre fluido e ar externo
-- **Ventoinha**: aumenta fluxo de ar quando necessário
-- **Fluido refrigerante**: água + aditivos inibidores de corrosão
-- **Reservatório de expansão**: compensa variações de volume
+## Arrefecimento a Líquido (mais comum)
 
-## Os 3 Estágios de Funcionamento
+### Estágios de Operação
 
-### Estágio 1 — Motor Frio
-Fluido circula apenas pelo motor (termostato fechado). Motor aquece rapidamente.
+| Estágio | Descrição |
+|---|---|
+| **1°** | Fluido circula apenas pelo motor até atingir temperatura ideal |
+| **2°** | Válvula termostática abre (85°–90°C) → fluido vai ao radiador para ser resfriado |
+| **3°** | Em trânsito intenso ou parado ligado, o interruptor térmico (cebolinha) aciona a ventoinha ao atingir 90°–95°C |
 
-### Estágio 2 — Temperatura Normal (85°–90°C)
-Termostato abre — fluido passa pelo radiador para ser resfriado e retorna ao motor.
+### Componentes
 
-### Estágio 3 — Trânsito Intenso ou Motor Parado
-Ventoinha acionada ao detectar temperatura entre 90°–95°C:
-- Carros antigos: interruptor térmico bimetálico
-- Carros modernos: sensor ECT aciona ventoinha elétrica
+| Componente | Função |
+|---|---|
+| **Fluido de arrefecimento** | Líquido refrigerante que circula pelo sistema |
+| **Reservatório de expansão** | Acomoda variações de volume do fluido |
+| **Mangueiras** | Conduzem o fluido entre os componentes |
+| **Bomba d'água** | Pressuriza e circula o fluido |
+| **Válvula termostática (termostato)** | Controla quando o fluido vai para o radiador |
+| **Radiador** | Dissipa o calor do fluido para o ar |
+| **Válvula de pressão / Tampa do radiador** | Mantém pressão correta no sistema |
+| **Ventoinha** | Força passagem de ar pelo radiador quando necessário |
+| **Interruptor térmico (cebolinha)** | Ativa a ventoinha ao atingir temperatura crítica |
+| **Sensor de temperatura** | Monitora temperatura e informa a ECU |
+
+---
+
+## Arrefecimento a Ar
+
+Usado em motores mais simples (motos, alguns veículos antigos).
+
+- **Aletas de refrigeração** no bloco e cabeçote dissipam calor diretamente para o ar
+
+---
+
+## Arrefecimento a Ar + Óleo
+
+Combina aletas com circulação de óleo em dutos para maior eficiência térmica.
+
+---
 
 ## Relação com Outros Sistemas
 
-- [[motor]] — protege cabeçote, bloco e pistões
-- [[sistema-eletrico]] — sensor ECT, ventoinha elétrica
-- [[sistema-de-injecao]] — temperatura influencia mapeamento
+- [[motor]] — o motor gera o calor que este sistema controla
+- [[sistema-eletrico]] — sensor de temperatura, interruptor térmico, ventoinha elétrica
 
 ## Fontes
 

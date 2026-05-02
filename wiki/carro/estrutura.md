@@ -1,41 +1,63 @@
 ---
-titulo: "Estrutura do Carro"
+titulo: "Estrutura"
 tipo: carro
-tags: [mecanica-automotiva, estrutura, chassi, carroceria]
+tags: [mecanica-automotiva, estrutura, chassi, carroceria, monobloco]
 data_criacao: 2026-05-02
 data_atualizacao: 2026-05-02
-fontes: []
+fontes: [Mapa_mental_obsidian.pdf]
 ---
 
-# Estrutura do Carro
+# Estrutura
 
-*Página stub — será expandida com a ingestão de fontes.*
+A estrutura do carro é formada pelo **chassi + carroceria**, base rígida que sustenta todos os sistemas.
 
-## Descrição Geral
+## Chassi + Carroceria
 
-A estrutura é o esqueleto do veículo. Define forma, rigidez e segurança e serve de base para fixar todos os sistemas mecânicos.
+| Componente | Função |
+|---|---|
+| **Longarinas** | Vigas longitudinais — espinha dorsal do chassi |
+| **Travessas** | Vigas transversais que interligam as longarinas |
+| **Suporte do motor** | Fixação do motor ao chassi |
+| **Suporte de transmissão** | Fixação da caixa de câmbio |
+| **Suporte do sistema de direção** | Ponto de montagem da direção |
+| **Suporte do diferencial** | Presente em veículos 4x4 |
+| **Suporte de eixo dianteiro** | Fixação do eixo dianteiro |
+| **Suporte de eixo traseiro** | Fixação do eixo traseiro |
+| **Suportes da suspensão** | Pontos de ancoragem da suspensão |
 
-## Tipos de Estrutura
+### Estrutura de Impacto / Célula de Segurança
 
-- **Monobloco (unibody)**: carroceria e chassi integrados — maioria dos carros modernos
-- **Chassi separado (body-on-frame)**: carroceria separada — caminhonetes e SUVs robustos
-- **Spaceframe**: gaiola tubular — carros esportivos e de competição
+Zonas programadas para absorver e dissipar energia em colisões, protegendo os ocupantes.
 
-## Componentes Principais
+---
 
-- **Chassi**: estrutura base que suporta todos os componentes
-- **Carroceria**: estrutura externa que define a forma do veículo
-- **Longarinas**: vigas longitudinais principais
-- **Travessas**: vigas transversais que dão rigidez
-- **Pilares (A, B, C)**: estruturas verticais da carroceria
-- **Zonas de deformação programada**: absorvem energia em colisões protegendo os ocupantes
+## Monobloco
 
-## Relação com Outros Sistemas
+Estrutura onde chassi e carroceria são integrados. Mais comum em carros de passeio modernos.
 
-- [[suspensao]] — fixada nos pontos de ancoragem da estrutura
-- [[sistema-de-freios]] — fixacao das pinças e cilindros
-- [[motor]] — fixado via coxins na estrutura
+### Reforços
+
+- **Longitudinais** — vigas que percorrem o comprimento do veículo
+- **Transversais** — vigas que cruzam a largura do veículo
+
+### Painéis e Colunas
+
+| Componente | Descrição |
+|---|---|
+| **Coluna A** | Coluna dianteira — ao lado do para-brisa |
+| **Coluna B** | Coluna central — entre as portas dianteira e traseira |
+| **Coluna C** | Coluna traseira — ao lado do vidro traseiro |
+| **Painel frontal** | Estrutura dianteira |
+| **Painel traseiro** | Estrutura traseira |
+| **Painéis laterais** | Laterais da carroceria |
+| **Assoalho** | Fundo do habitáculo |
+| **Capô** | Tampa do compartimento do motor |
+| **Teto** | Cobertura superior |
+
+### Estrutura de Impacto / Célula de Segurança
+
+No monobloco, as zonas de deformação programada são incorporadas diretamente na carroceria.
 
 ## Fontes
 
-*(a preencher com ingestão de fontes)*
+- Mapa mental de mecânica automotiva (arquivo pessoal)

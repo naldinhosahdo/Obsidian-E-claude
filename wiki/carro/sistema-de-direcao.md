@@ -1,41 +1,30 @@
 ---
 titulo: "Sistema de Direção"
 tipo: carro
-tags: [mecanica-automotiva, direcao, chassis]
+tags: [mecanica-automotiva, direcao, hidraulica, eletrica, EPS]
 data_criacao: 2026-05-02
 data_atualizacao: 2026-05-02
-fontes: []
+fontes: [Mapa_mental_obsidian.pdf]
 ---
 
 # Sistema de Direção
 
-*Página stub — será expandida com a ingestão de fontes.*
-
-## Descrição Geral
-
-Transmite o movimento do volante para as rodas dianteiras, permitindo ao motorista controlar a trajetória do veículo.
+Permite ao motorista controlar a trajetória do veículo.
 
 ## Tipos
 
-- **Mecânica (pinhão e cremalheira)**: sem assistência
-- **Hidráulica (DH)**: assistência por bomba hidráulica acionada pelo motor
-- **Elétrica (DE / EPS)**: assistência por motor elétrico — mais eficiente, sem perda de potência
-- **Eletro-hidráulica (EHPS)**: bomba hidráulica acionada por motor elétrico
-
-## Componentes Principais
-
-- Volante
-- Coluna de direção
-- Pinhão e cremalheira
-- Barra de direção (tie rod)
-- Terminal de direção
-- Bomba hidráulica (DH) ou motor elétrico (DE)
+| Tipo | Descrição |
+|---|---|
+| **Mecânica manual** | Transmissão direta via pinhão e cremalheira, sem assistência |
+| **Hidráulica** | Assistência por bomba hidráulica acionada pelo motor |
+| **Eletro-hidráulica** | Bomba hidráulica acionada por motor elétrico |
+| **Elétrica (EPS)** | Assistência totalmente elétrica, sem fluido |
 
 ## Relação com Outros Sistemas
 
-- [[suspensao]] — geometria afeta a direção
-- [[sistema-eletrico]] — sensor de ângulo, EPS, ESP
+- [[sistema-de-suspensao]] — geometria da suspensão afeta a direção
+- [[sistema-eletrico]] — direção elétrica, sensores de ângulo de direção
 
 ## Fontes
 
-*(a preencher com ingestão de fontes)*
+- Mapa mental de mecânica automotiva (arquivo pessoal)
