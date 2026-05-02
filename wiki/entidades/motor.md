@@ -4,42 +4,52 @@ tipo: entidade
 tags: [mecanica-automotiva, motor, powertrain]
 data_criacao: 2026-05-02
 data_atualizacao: 2026-05-02
-fontes: []
+fontes: [Mapa_mental_.pdf]
 ---
 
 # Motor de Combustão Interna
 
-*Página stub — será expandida com a ingestão de fontes.*
+O motor de combustão interna (MCI) converte energia química do combustível em trabalho mecânico. É o coração do trem de força da maioria dos veículos.
 
-## Descrição Geral
+## Posição e Layout no Veículo
 
-O motor de combustão interna (MCI) converte energia química do combustível em trabalho mecânico por meio de ciclos termodinâmicos. É o componente central do trem de força da maioria dos veículos atuais.
+### Orientação
+- **Longitudinal**: carros de maior desempenho e 4x4 — menos subesterço
+- **Transversal**: carros simples com tração dianteira — menos espaço, mais subesterço
 
-## Tipos Principais
+### Posição no Chassi
+| Posição | Característica |
+|---|---|
+| **Dianteiro** | Mais subesterço — maioria dos carros populares |
+| **Central traseiro** | Distribuição de peso mais equilibrada — esportivos |
+| **Traseiro** | Mais sobresterço — Porsche 911, VW Fusca |
 
-- **Ciclo Otto**: ignição por centelha, gasolina/etanol/GNV
-- **Ciclo Diesel**: ignição por compressão, combustível diesel
-- **Ciclo Atkinson/Miller**: variante do Otto com expansão aumentada, comum em híbridos
+## Estrutura
 
-## Componentes Internos Principais
+O motor é dividido em dois grandes grupos:
 
-- **Bloco do motor**: estrutura principal com cilindros e passagens de arrefecimento e lubrificação
-- **Cabeçote**: câmara de combustão, válvulas, árvore de cames
-- **Pistão e biela**: transmitem a pressão dos gases ao virabrequim
-- **Virabrequim**: converte movimento linear em rotacional
-- **Sistema de distribuição**: sincroniza válvulas com o virabrequim (correia, corrente ou engrenagens)
+### [[bloco-do-motor]] — Estrutura inferior
+Cilindros, camisas, pistões, virabrequim, cárter, canais de lubrificação e refrigeração.
 
-## Relação com Outros Sistemas
+### [[cabecote]] — Estrutura superior
+Câmara de combustão, válvulas, comando de válvulas, velas, bobinas, bicos injetores, sensores.
 
-- [[sistema-de-combustivel]] — fornece a mistura ar/combustível
-- [[sistema-de-arrefecimento]] — mantém temperatura operacional
-- [[sistema-eletrico]] — sensores, ECU (gerenciamento), sistema de ignição
-- [[transmissao]] — recebe o torque produzido pelo motor
+## Configuração dos Cilindros
 
-## Falhas Comuns
+- [[disposicao-dos-cilindros]] — em linha, V, VR, W, boxer/flat
+- [[capacidade-volumetrica]] — cilindradas, cc e fórmulas de cálculo
 
-*(a preencher com ingestão de fontes)*
+## Sistemas Associados
+
+| Sistema | Função |
+|---|---|
+| [[sistema-de-arrefecimento]] | Controla a temperatura do motor |
+| [[sistema-de-lubrificacao]] | Lubrifica os componentes internos |
+| [[sistema-de-combustivel]] | Fornece a mistura ar/combustível |
+| [[sistema-eletrico]] | ECU gerencia ignição, injeção e sensores |
+| [[embreagem]] | Conecta e desconecta o motor da transmissão |
+| [[transmissao]] | Recebe e distribui o torque às rodas |
 
 ## Fontes
 
-*(nenhuma fonte ingerida ainda)*
+- Mapa mental de mecânica automotiva (arquivo pessoal)
