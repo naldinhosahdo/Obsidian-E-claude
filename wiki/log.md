@@ -20,3 +20,11 @@ Wiki criada com estrutura inicial baseada no padrão LLM Wiki. Páginas criadas:
 - `entidades/suspensao.md` — Suspensão
 
 Status: wiki inicializada, pronta para ingestão de fontes.
+
+## [2026-05-02] create | Teste de funcionamento — página de conceito Torque
+
+Primeira página de conceito criada como teste do fluxo de atualização da wiki.
+
+- `conceitos/torque.md` — O que é torque, diferença pra potência, unidades, tipos de motor
+
+`wiki/index.md` atualizado (10 páginas). Teste bem-sucedido.

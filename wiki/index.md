@@ -1,6 +1,6 @@
 # Índice da Wiki de Mecânica Automotiva
 
-*Última atualização: 2026-05-02 | Total de páginas: 9*
+*Última atualização: 2026-05-02 | Total de páginas: 10*
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## Conceitos
 
-*(vazio — páginas criadas à medida que fontes forem ingeridas)*
+- [[torque]] — O que é torque, diferença pra potência (CV) e como aparece na ficha técnica
 
 ## Procedimentos
 
