@@ -9,38 +9,46 @@ fontes: []
 
 # Visão Geral — Wiki de Mecânica Automotiva
 
-Base de conhecimento estruturada sobre mecânica automotiva, mantida por LLM. Alimentada por PDFs técnicos, manuais, artigos e sugestões geradas pela própria IA.
+Base de conhecimento estruturada sobre mecânica automotiva, mantida por LLM e alimentada pelo próprio usuário.
 
 ## Mapa de Domínios
 
-### Trem de Força (Powertrain)
+### Carro
 
-- [[motor]] — Motor de combustão interna (ciclo Otto, Diesel, Atkinson)
-- [[transmissao]] — Câmbio e componentes de transmissão de força
-- [[sistema-de-combustivel]] — Injeção, gestão eletrônica e mapeamento
+#### Estrutura
+- [[estrutura]] — Carroceria, chassi e zonas de deformação
 
-### Chassis e Segurança Ativa
+#### Motor
+- [[motor]] — Visão geral
+- [[bloco-do-motor]] — Cilindros, pistões, virabrequim
+- [[cabecote]] — Válvulas, ignição, sensores
+- [[comando-de-valvulas]] — Árvore de cames e distribuição
+- [[embreagem]] — Conexão motor/câmbio
 
-- [[sistema-de-freios]] — Freios, ABS, EBD, controle de estabilidade
-- [[suspensao]] — Geometria, absorção de impactos, dirigibilidade
-
-### Sistemas de Apoio
-
-- [[sistema-de-arrefecimento]] — Controle térmico do motor
-- [[sistema-eletrico]] — Elétrica, eletrônica embarcada, sensores, diagnóstico
+#### Sistemas
+- [[sistema-de-injecao]] — Combustível e admissão
+- [[sistema-de-arrefecimento]] — Controle térmico
+- [[sistema-de-lubrificacao]] — Óleo e lubrificação
+- [[sistema-de-freios]] — Frenagem e ABS
+- [[suspensao]] — Geometria e conforto
+- [[sistema-de-direcao]] — Pinhão e cremalheira
+- [[sistema-de-escapamento]] — Catalisador e emissões
+- [[sistema-de-reaproveitamento-de-gases]] — EGR, PCV, EVAP
+- [[sistema-de-ar-condicionado]] — Ciclo de refrigeração
+- [[transmissao]] — Câmbio e trem de força
+- [[sistema-eletrico]] — ECU, sensores e OBD-II
 
 ## Estado da Wiki
 
 | Categoria | Páginas |
 |---|---|
-| Entidades | 7 |
-| Conceitos | 1 |
+| Carro | 17 |
+| Conceitos | 3 |
 | Procedimentos | 0 |
-| Comparações | 0 |
 
 ## Como Usar
 
 - **Navegar**: use [[index]] ou o grafo do Obsidian
-- **Adicionar fontes**: envie um PDF ao Claude e peça para ingerir
-- **Fazer perguntas**: pergunte diretamente — Claude lê a wiki e responde
-- **Sugestões da IA**: peça ao Claude para identificar lacunas
+- **Adicionar fontes**: mande um PDF e peça para ingerir
+- **Perguntas**: pergunte diretamente — Claude lê a wiki e responde
+- **Sugestões**: peça ao Claude para identificar lacunas
